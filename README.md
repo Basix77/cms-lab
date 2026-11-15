@@ -1,5 +1,5 @@
 # cms-lab
-Propeller IT – projekt CMS
+## Propeller IT – projekt CMS
 
 Projekt strony fikcyjnej firmy zajmującej się automatyzacją procesów i rozwiązaniami AI dla małych firm.
 
