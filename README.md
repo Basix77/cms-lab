@@ -103,6 +103,18 @@ ChatGPT pomógł w opracowaniu koncepcji firmy, person, treści tekstowych oraz 
 - Zastosowanie: identyfikacja wizualna fikcyjnej firmy Propeller IT.
 - Materiały zewnętrzne: nie wykorzystano świadomie zewnętrznych zdjęć ani gotowych grafik.
 
+### Raporty Lighthouse:
+
+### Strona główna 
+
+<img width="688" height="578" alt="screenshot" src="https://github.com/user-attachments/assets/b1275e7f-06d9-496e-ab89-8088927ef394" />
+
+### Kontakt
+
+<img width="687" height="832" alt="accesibility_kontakt" src="https://github.com/user-attachments/assets/56157d9b-93b4-4d43-8888-f7af12f75402" />
+
+
+
 
 
 
