@@ -61,8 +61,10 @@ ChatGPT pomógł w opracowaniu koncepcji firmy, person, treści tekstowych oraz 
 
 ## Widok mobilny strony głównej:
 <img width="398" height="742" alt="image" src="https://github.com/user-attachments/assets/e3e8a84a-0fc7-4f6d-9a0e-e6e2cd4cbfd0" />
-<img width="398" height="742" alt="image" src="https://github.com/user-attachments/assets/83139390-5884-4165-90d2-5fc9dbe628d9" />
-<img width="398" height="742" alt="image" src="https://github.com/user-attachments/assets/35a67222-ffe1-4782-b4e5-eb504576c76e" />
+<img width="404" height="837" alt="image" src="https://github.com/user-attachments/assets/4ed4fb13-baac-4414-991d-f4c2990396fe" />
+<img width="400" height="833" alt="image" src="https://github.com/user-attachments/assets/280d7a96-4f17-45e8-ae0e-0bd42781830d" />
+
+
 
 
 
