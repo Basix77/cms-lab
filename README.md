@@ -48,7 +48,7 @@ Propeller IT to studio automatyzacji i sztucznej inteligencji, które pomaga ma�
 
 ## 4. Dlaczego Wordpress?
 
-Wybrałam WordPress, ponieważ dobrze sprawdzi się przy tworzeniu strony małej firmy usługowej, takiej jak Propeller IT. Pozwala samodzielnie edytować treści i rozbudowywać stronę za pomocą wtyczek, bez konieczności programowania wszystkiego od podstaw. Według danych W3Techs z materiałów do zajęć WordPress ma bardzo duży udział w rynku CMS, co pokazuje, że jest popularnym i sprawdzonym rozwiązaniem. W porównaniu z Wix daje większą swobodę rozbudowy, Shopify jest nastawiony głównie na sprzedaż internetową, a Drupal byłby bardziej rozbudowany, niż potrzebuje tego aktualna firma.
+Wybrałam WordPress, ponieważ dobrze sprawdzi się przy tworzeniu i rozwijaniu strony małej firmy usługowej, takiej jak Propeller IT, a jednocześnie pozwala samodzielnie zarządzać treścią i korzystać z dodatkowych wtyczek. Według danych W3Techs z października 2026 r. WordPress obsługuje 40,2% wszystkich stron internetowych i ma 58,7% udziału w rynku systemów CMS, co potwierdza jego popularność. W porównaniu z Wix oferuje większą swobodę rozbudowy, Shopify koncentruje się przede wszystkim na e-commerce, a Drupal byłby bardziej rozbudowanym rozwiązaniem, niż potrzebuje obecnie Propeller IT.
 
 ## Wykorzystanie AI: 
 ChatGPT pomógł w opracowaniu koncepcji firmy, person, treści tekstowych oraz planowaniu układu witryny.
