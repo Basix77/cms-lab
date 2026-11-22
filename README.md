@@ -107,11 +107,11 @@ ChatGPT pomógł w opracowaniu koncepcji firmy, person, treści tekstowych oraz 
 
 ### Raporty Lighthouse:
 
-### Lighthouse - Strona glowna.png
+### [Raport Lighthouse – Strona główna](./Lighthouse%20-%20Strona%20glowna.png)
 
 <img width="688" height="578" alt="screenshot" src="https://github.com/user-attachments/assets/b1275e7f-06d9-496e-ab89-8088927ef394" />
 
-### Lighthouse - kontakt.png
+### [Raport Lighthouse – Kontakt](./Lighthouse%20-%20kontakt.png)
 
 <img width="687" height="832" alt="accesibility_kontakt" src="https://github.com/user-attachments/assets/56157d9b-93b4-4d43-8888-f7af12f75402" />
 
